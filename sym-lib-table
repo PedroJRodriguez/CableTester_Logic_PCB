@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CableTester_Logic_Project_Lib")(type "KiCad")(uri "${KIPRJMOD}/lib/Symbols/CableTester_Logic_Project_Lib.kicad_sym")(options "")(descr ""))
+)
