@@ -252,15 +252,7 @@
 		(remove_unused_layers no)
 		(uuid "07f83e07-475e-4991-9c4c-c597cf7fc776")
 	)
-	(pad "2" thru_hole circle
-		(at -2.54 2.54)
-		(size 2.74 2.74)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "5d2bd720-a994-4de2-87f9-082f69423ad5")
-	)
-	(pad "2" thru_hole circle
+	(pad "3" thru_hole circle
 		(at 2.54 -2.54)
 		(size 2.74 2.74)
 		(drill 1.7)
@@ -268,13 +260,21 @@
 		(remove_unused_layers no)
 		(uuid "482faaad-8c77-4e6e-90f8-f5e755d8c7ed")
 	)
-	(pad "2" thru_hole circle
+	(pad "4" thru_hole circle
 		(at 2.54 2.54)
 		(size 2.74 2.74)
 		(drill 1.7)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "e28dda43-dce6-4543-9d02-0352db906a14")
+	)
+	(pad "5" thru_hole circle
+		(at -2.54 2.54)
+		(size 2.74 2.74)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5d2bd720-a994-4de2-87f9-082f69423ad5")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/lib/3dModels/413990-1.stp"
